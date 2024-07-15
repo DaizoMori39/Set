@@ -19,7 +19,7 @@ This program is a basic Set game. The game uses a deck of cards with four attrib
 
 To run this program, you need to have Visual Studio Code (VSCode) installed on your machine. Follow these steps to download and install the program:
 
-1. Download the files "index.html", "about.html", "script.js", "styles.css", and "imgs".
+1. Download the all the files in Set file
 
 2. Open the downloaded files in VSCode.
 
